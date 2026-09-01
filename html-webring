@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Brook</title>
+
+<style>
+body { background-color: black; color: white; text-align: center; }
+h2 { color: gray; }
+p { color: lightgray; }
+</style>
+
+</head>
+
+<body>
+
+<h1>Brook</h1>
+<h1>He/Him</h1>
+
+<img src="avatar.png" width="150">
+
+<h2>About Me</h2>
+<p>I like playing soccer!</p>
+
+<h2>Poem</h2>
+<blockquote>
+The night is calm, the stars are bright,<br>
+The moon is glowing in the night.<br>
+I close my eyes and start to dream.
+</blockquote>
+
+<h2>ASCII Art</h2>
+<pre>
+  O
+ /|\
+ / \
+</pre>
+
+<h2>Website</h2>
+<a href="#">Person's Name</a>
+
+</body>
+</html>
